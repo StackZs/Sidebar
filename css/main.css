@@ -134,6 +134,7 @@ body {
 }
 
 .sidebar__main {
+  overflow: hidden;
   height: calc(100vh - 70px);
   padding: 24px 13px;
   display: -webkit-box;
